@@ -10,4 +10,4 @@ make
 ./prog
 
 # Enjoy the GAME
-# Enjoy the code (C and NOT unity 2D)
+# Enjoy the code (C and NOT unity 2D)![Screenshot from 2022-07-05 23-40-07](https://user-images.githubusercontent.com/47029613/177422291-d15955cf-d3c3-4db3-aaca-cb99b81098dc.png)
