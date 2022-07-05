@@ -9,4 +9,5 @@ sudo apt-get install libsdl-dev
 make
 ./prog
 
-# Enjoy
+# Enjoy the GAME
+# Enjoy the code (C and NOT unity 2D)
