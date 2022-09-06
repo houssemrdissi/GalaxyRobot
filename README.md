@@ -9,6 +9,13 @@ sudo apt-get install libsdl-dev
 make
 ./prog
 
+How to play:
+
+use space to jump
+you can use x to speed up when you want to jump (but you need to take the green diamond in order to use x)
+You need to take 3 keys by the en of the mission
+
+
 # Enjoy the GAME
 # Enjoy the code (C and NOT unity 2D)
 ![Screenshot from 2022-07-05 23-38-09](https://user-images.githubusercontent.com/47029613/177422452-0d315db9-fdf6-47dd-a0af-22b33bb232ab.png)
